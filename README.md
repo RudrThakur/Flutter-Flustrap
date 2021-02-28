@@ -1,2 +1,2 @@
 # Flutter-Flustrap
-Predefined constants for easing your life
+Predefined constants similar to Bootstrap Framework ready to be imported and used on the fly
